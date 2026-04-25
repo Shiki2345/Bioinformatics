@@ -1,0 +1,41 @@
+{
+  "files_loaded": {
+    "expression": "D:\\勉強\\大三下\\生物信息学小组实验\\data\\raw\\expression.csv",
+    "methylation": "D:\\勉強\\大三下\\生物信息学小组实验\\data\\raw\\methylation.csv",
+    "clinical": "D:\\勉強\\大三下\\生物信息学小组实验\\data\\raw\\clinical.csv"
+  },
+  "rows_cols": {
+    "expression": [
+      349,
+      8375
+    ],
+    "methylation": [
+      350,
+      8375
+    ],
+    "clinical": [
+      8374,
+      3
+    ]
+  },
+  "sample_counts": {
+    "expression_samples": 8374,
+    "methylation_samples": 8374,
+    "clinical_samples": 8374,
+    "common_samples": 8374
+  },
+  "missing_ratio": {
+    "expression": 0.2051798315015182,
+    "methylation": 0.10086993603411515,
+    "clinical": 0.0
+  },
+  "clinical_columns": {
+    "sample_id": "sample_id",
+    "label": "label",
+    "age": "age"
+  },
+  "label_distribution": {
+    "0": 7745,
+    "1": 629
+  }
+}

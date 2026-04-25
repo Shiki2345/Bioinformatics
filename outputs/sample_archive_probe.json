@@ -1,0 +1,65 @@
+{
+  "archive": "sample_age_methylation_v1.zip",
+  "txt_shape": [
+    8374,
+    67
+  ],
+  "txt_columns_preview": [
+    "sample_id",
+    "age",
+    "age_at_menarche",
+    "atopy",
+    "blood_lead_level",
+    "bmi",
+    "body_fat",
+    "braak_stage",
+    "brain_weight",
+    "cd4_nadir",
+    "cell_component",
+    "cell_component_abs",
+    "childhood_abuse",
+    "cigarettes_per_day",
+    "disease",
+    "disease_stage",
+    "disease_subtype",
+    "education_level",
+    "family_disease_history",
+    "infection",
+    "drinking",
+    "future_status",
+    "gail_risk_model_score",
+    "genotype",
+    "gestational_age"
+  ],
+  "rdata_probe": {
+    "sample_age": {
+      "type": "<class 'pandas.DataFrame'>",
+      "shape": [
+        8374,
+        67
+      ],
+      "columns_preview": [
+        "sample_id",
+        "age",
+        "age_at_menarche",
+        "atopy",
+        "blood_lead_level",
+        "bmi",
+        "body_fat",
+        "braak_stage",
+        "brain_weight",
+        "cd4_nadir",
+        "cell_component",
+        "cell_component_abs",
+        "childhood_abuse",
+        "cigarettes_per_day",
+        "disease",
+        "disease_stage",
+        "disease_subtype",
+        "education_level",
+        "family_disease_history",
+        "infection"
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "archive": "age_methylation_v1 (1).zip",
+  "members": {
+    "age_methylation_v1.RData": 49899173486,
+    "age_methylation_v1.txt": 22456410756
+  },
+  "export_info": {
+    "sample_id_column": "sample_id",
+    "age_column": "age",
+    "label_column": "derived_from_age_median",
+    "expression_features": 349,
+    "methylation_features": 350,
+    "samples": 8374,
+    "exported_files": {
+      "expression": "D:\\勉強\\大三下\\生物信息学小组实验\\data\\raw\\expression.csv",
+      "methylation": "D:\\勉強\\大三下\\生物信息学小组实验\\data\\raw\\methylation.csv",
+      "clinical": "D:\\勉強\\大三下\\生物信息学小组实验\\data\\raw\\clinical.csv"
+    }
+  },
+  "txt_shape": [
+    700,
+    8375
+  ],
+  "txt_max_rows_used": 700
+}
